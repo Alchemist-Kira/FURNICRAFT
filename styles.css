@@ -1,0 +1,40 @@
+/* Product card hover effect */
+.product-card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Form input focus styles */
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #4F46E5;
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+/* Button hover effects */
+button {
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+    transform: translateY(-1px);
+}
+
+/* Cart item animation */
+.cart-item {
+    animation: slideIn 0.3s ease-in-out;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+} 

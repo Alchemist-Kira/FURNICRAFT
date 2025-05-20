@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Modern Wooden Dining Table",
+      "price": 499.99,
+      "description": "A sleek 6-seater wooden dining table with a walnut finish.",
+      "category": "furniture",
+      "image": "https://img.freepik.com/premium-photo/best-design-wood-dining-table-modern-interior-picture-ai-generated-art_1017715-1662.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 78
+      }
+    },
+    {
+      "id": 2,
+      "title": "Luxury Fabric Sofa",
+      "price": 899.99,
+      "description": "Three-seater premium fabric sofa with soft cushions and hardwood legs.",
+      "category": "furniture",
+      "image": "https://s3-us-west-2.amazonaws.com/sitaward/uploads/142324188/96-55937-22/medium/f22c3dcd4f6c105cb90ddddd51a3de64.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 142
+      }
+    },
+    {
+      "id": 3,
+      "title": "Ergonomic Office Chair",
+      "price": 249.99,
+      "description": "Adjustable office chair with lumbar support and breathable mesh.",
+      "category": "furniture",
+      "image": "https://s3-us-west-2.amazonaws.com/sitaward/uploads/142324544/96-55931-22/full/7c00a7ce1c54243d47c730bbc659c57e.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 96
+      }
+    },
+    {
+      "id": 4,
+      "title": "Minimalist Bookshelf",
+      "price": 199.99,
+      "description": "5-tier open bookshelf with a modern, space-saving design.",
+      "category": "furniture",
+      "image": "https://images.unsplash.com/photo-1536411396596-afed9fa3c1b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": {
+        "rate": 4.5,
+        "count": 64
+      }
+    },
+    {
+      "id": 5,
+      "title": "Queen Size Bed Frame",
+      "price": 599.99,
+      "description": "Sturdy metal queen bed frame with wooden headboard and storage space.",
+      "category": "furniture",
+      "image": "https://th.bing.com/th/id/OIP.-QRfWt8IgangrX8evjT52QHaIJ?cb=iwp2&rs=1&pid=ImgDetMain",
+      "rating": {
+        "rate": 4.7,
+        "count": 110
+      }
+    },
+    {
+      "id": 6,
+      "title": "Compact Coffee Table",
+      "price": 149.99,
+      "description": "Stylish coffee table with tempered glass top and wooden base.",
+      "category": "furniture",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1735942686-81GxmLEfFkL.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "rating": {
+        "rate": 5,
+        "count": 83
+      }
+    },
+    {
+      "id": 7,
+      "title": "Recliner Lounge Chair",
+      "price": 329.99,
+      "description": "Comfortable reclining chair with footrest and leather upholstery.",
+      "category": "furniture",
+      "image": "https://pictureserver.net/pic_storage/pic/f5/dc/undef_src_sa_picid_948116_x_1000_type_whitesh_quality_100_image.jpg?ver=6",
+      "rating": {
+        "rate": 4.5,
+        "count": 72
+      }
+    },
+    {
+      "id": 8,
+      "title": "Wooden Nightstand",
+      "price": 89.99,
+      "description": "Compact two-drawer nightstand in oak finish.",
+      "category": "furniture",
+      "image": "https://nathanjames.com/cdn/shop/files/33201_3ea482bc-2334-4989-b362-224aad97f4dc.jpg?crop=center&height=1200&v=1703700740&width=1200",
+      "rating": {
+        "rate": 4.1,
+        "count": 58
+      }
+    },
+    {
+      "id": 9,
+      "title": "Convertible Sofa Bed",
+      "price": 699.99,
+      "description": "Space-saving convertible sofa bed with soft fabric and storage.",
+      "category": "furniture",
+      "image": "https://i.pinimg.com/474x/8b/91/60/8b91604c31a4825e9d5876ef3ca1b5ae.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 101
+      }
+    },
+    {
+      "id": 10,
+      "title": "Glass Top Dining Table",
+      "price": 399.99,
+      "description": "Elegant dining table with clear glass top and steel frame.",
+      "category": "furniture",
+      "image": "https://www.designersofas4u.co.uk/images/pictures/premium-extendable-dining-tables/tango-3008-white-agglomerate-base-and-2001.jpg?v=124c533b",
+      "rating": {
+        "rate": 4.2,
+        "count": 69
+      }
+    },
+    {
+      "id": 11,
+      "title": "TV Console Stand",
+      "price": 179.99,
+      "description": "Modern TV stand with shelves and cable management features.",
+      "category": "furniture",
+      "image": "https://m.media-amazon.com/images/I/71vMRO8w17L.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 88
+      }
+    },
+    {
+      "id": 12,
+      "title": "Classic Wooden Wardrobe",
+      "price": 749.99,
+      "description": "Spacious 3-door wardrobe with mirror and drawers.",
+      "category": "furniture",
+      "image": "https://image.made-in-china.com/202f0j00cljUNGBJSZoV/Factory-Wholesale-Classic-Solid-Wood-Wardrobe-in-Optional-Furniture-Color.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 134
+      }
+    }
+  ]
+}
